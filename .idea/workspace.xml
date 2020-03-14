@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e13022f-cb11-42aa-8bba-38294ba1d71e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/backupchitieu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backupvay.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getChiTieu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getVay.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updateChiTieu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updateVay.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updateuserinfor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/connect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register_user.php" beforeDir="false" afterPath="$PROJECT_DIR$/register_user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="htdocs" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/../php" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1YSrlfxEiDHUx38Uo7ZHNNYL2rn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e13022f-cb11-42aa-8bba-38294ba1d71e" name="Default Changelist" comment="" />
+      <created>1582946989357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582946989357</updated>
+      <workItem from="1582946992587" duration="9562000" />
+      <workItem from="1582956641662" duration="3891000" />
+      <workItem from="1582970211162" duration="9047000" />
+      <workItem from="1583142474430" duration="221000" />
+      <workItem from="1583144162518" duration="198000" />
+      <workItem from="1583151549422" duration="58000" />
+      <workItem from="1583151634598" duration="3572000" />
+      <workItem from="1583199198470" duration="698000" />
+      <workItem from="1583204927302" duration="620000" />
+      <workItem from="1583220532547" duration="12837000" />
+      <workItem from="1583286367410" duration="2779000" />
+      <workItem from="1583336920937" duration="734000" />
+      <workItem from="1583349351639" duration="150000" />
+      <workItem from="1583349605147" duration="596000" />
+      <workItem from="1583572942962" duration="8587000" />
+      <workItem from="1583638833385" duration="7670000" />
+      <workItem from="1583719302622" duration="1074000" />
+      <workItem from="1583734887208" duration="13938000" />
+      <workItem from="1583771419012" duration="2071000" />
+      <workItem from="1583819573010" duration="1371000" />
+      <workItem from="1583934058554" duration="8000" />
+      <workItem from="1583940711106" duration="643000" />
+      <workItem from="1583990656109" duration="5079000" />
+      <workItem from="1584030292049" duration="1804000" />
+      <workItem from="1584088035521" duration="17857000" />
+      <workItem from="1584137086115" duration="2017000" />
+      <workItem from="1584161402544" duration="14313000" />
+      <workItem from="1584192200762" duration="3168000" />
+      <workItem from="1584202477866" duration="2198000" />
+    </task>
+    <task id="LOCAL-00001" summary="themapi thuốc">
+      <created>1583151876003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583151876003</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hoàn thành xong chức năng đăng nhập">
+      <created>1583240897960</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583240897960</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="themapi thuốc" />
+    <MESSAGE value="hoàn thành xong chức năng đăng nhập" />
+    <option name="LAST_COMMIT_MESSAGE" value="hoàn thành xong chức năng đăng nhập" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="581" y="108" key="#CLI_Interpreters" timestamp="1583224141115">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="581" y="108" key="#CLI_Interpreters/0.0.1600.860@0.0.1600.860" timestamp="1583224141115" />
+    <state x="507" y="20" key="#PHP" timestamp="1583224146583">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="20" key="#PHP/0.0.1600.860@0.0.1600.860" timestamp="1583224146583" />
+    <state x="372" y="24" key="CommitChangelistDialog2" timestamp="1583240896421">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="372" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1583240896421" />
+    <state x="820" y="190" key="FileChooserDialogImpl" timestamp="1583349485438">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="820" y="190" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583349485438" />
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1584200574086">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1584200574086" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1583240921910">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1583240921910" />
+    <state x="501" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1584202494583">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="501" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1584202494583" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1582954180838">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1582954180838" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1583600334674">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1583600334674" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/connect.php</url>
+          <line>106</line>
+          <properties>
+            <option name="className" value="" />
+            <option name="methodName" value="\loginCheck" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
