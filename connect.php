@@ -119,17 +119,15 @@ function loginCheck($nickname, $passowrd){
     if($re){
         $reponsive = array();
         while (mysqli_stmt_fetch($stmt)){
-            $reponsive[] = array(
+            $repon = array(
                 'nickname'=>$nickname1,
                 'password'=>$passowrd1,
                 'access_token'=>$token,
                 'create_time'=>$create_time
             );
+            return $repon;
         }
-        if(count($reponsive)!=1){
-            sendReponsive(400,array("message"=>"Tên đăng nhập hoặc mật khẩu không đúng"));
-        }else
-            return $reponsive;
+        sendReponsive(400,array("message"=>"Tên đăng nhập hoặc mật khẩu không đúng"));
     }else{
         sendReponsive(400,array("message"=>"Lỗi truy xuất dữ liệu người dùng"));
     }
@@ -273,8 +271,7 @@ function backupChiTieu($data){
         }
     }
     if($errorCount>0){
-
-        sendReponsive(202,$error);
+        sendReponsive(200,$error);
 
     }else{
         sendReponsive(200,sendDataSuccessful(200,"Đã cập nhật thành công"));
@@ -348,7 +345,7 @@ function backupVay($data){
     $nickname = getNickname($data['token']);
     $error = array(
         'data'=> array(),
-        'error'=>'Lỗi thêm thông tin vay',
+        'error'=>'Các thông tin vay đã tồn tại',
         'create_time'=>getTimeNow()
     );
     $errorCount = 0;
@@ -364,7 +361,7 @@ function backupVay($data){
         $laiSuat = $vay['laisuat'];
         $trangThai = $vay['trangthai'];
         $backup = getTimeNow();
-        $query = "INSERT INTO $nickname(ID,soTienVay,soTienDaTra,hantra,nguoiGiaoDich,loaiGiaoDich,ghiChuGiaoDich,thoiGianGiaoDich,laiSuat,trangThai,backup_time) 
+        $query = "INSERT INTO $nickname(ID,sotienvay,sotiendatra,hantra,nguoigiaodich,loaigiaodich,ghichugiaodich,thoigiangiaodich,laisuat,trangthai,backup_time) 
                 VALUES (
                 $id,
                  $soTienVay ,
@@ -385,7 +382,7 @@ function backupVay($data){
         }
     }
     if($errorCount>0){
-        sendReponsive(202,$error);
+        sendReponsive(200,$error);
     }else{
         sendReponsive(200,sendDataSuccessful(200,"Đã cập nhật thành công"));
     }
@@ -435,6 +432,7 @@ function getAllVay($token){
         while ($row = mysqli_fetch_array($resulf)){
             $arr['ID'] = $row['ID'];
             $arr['sotienvay'] = $row['sotienvay'];
+            $arr['sotiendatra'] = $row['sotiendatra'];
             $arr['hantra'] = $row['hantra'];
             $arr['nguoigiaodich'] = $row['nguoigiaodich'];
             $arr['loaigiaodich'] = $row['loaigiaodich'];

@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e13022f-cb11-42aa-8bba-38294ba1d71e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/backupchitieu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backupvay.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getChiTieu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getVay.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/updateChiTieu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/updateVay.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/updateuserinfor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/connect.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register_user.php" beforeDir="false" afterPath="$PROJECT_DIR$/register_user.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +47,9 @@
   <component name="PropertiesComponent">
     <property name="FullScreen" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/WebProject/ProjectBackEnd" />
     <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -105,7 +97,15 @@
       <workItem from="1584137086115" duration="2017000" />
       <workItem from="1584161402544" duration="14313000" />
       <workItem from="1584192200762" duration="3168000" />
-      <workItem from="1584202477866" duration="2198000" />
+      <workItem from="1584202477866" duration="3579000" />
+      <workItem from="1584251958506" duration="853000" />
+      <workItem from="1584296089160" duration="238000" />
+      <workItem from="1584454546238" duration="419000" />
+      <workItem from="1584459131611" duration="128000" />
+      <workItem from="1584602423755" duration="41000" />
+      <workItem from="1584647146325" duration="1650000" />
+      <workItem from="1584772022304" duration="485000" />
+      <workItem from="1584772911902" duration="103000" />
     </task>
     <task id="LOCAL-00001" summary="themapi thuốc">
       <created>1583151876003</created>
@@ -149,14 +149,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="507" y="20" key="#PHP/0.0.1600.860@0.0.1600.860" timestamp="1583224146583" />
+    <state x="480" y="158" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584296093727">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="480" y="158" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.860@0.0.1600.860" timestamp="1584296093727" />
     <state x="372" y="24" key="CommitChangelistDialog2" timestamp="1583240896421">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="372" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1583240896421" />
-    <state x="820" y="190" key="FileChooserDialogImpl" timestamp="1583349485438">
+    <state x="820" y="190" key="FileChooserDialogImpl" timestamp="1584602457410">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="820" y="190" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583349485438" />
+    <state x="820" y="190" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1584602457410" />
+    <state x="670" y="323" key="Github.ShareDialog" timestamp="1584208518354">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="670" y="323" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1584208518354" />
     <state x="634" y="353" key="NewPhpFileDialog" timestamp="1584200574086">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -165,10 +173,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1583240921910" />
-    <state x="501" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1584202494583">
+    <state x="501" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1584772918975">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="501" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1584202494583" />
+    <state x="501" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1584772918975" />
     <state x="456" y="195" key="run.anything.popup" timestamp="1582954180838">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -181,14 +189,10 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="php-line-method">
+        <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/connect.php</url>
-          <line>106</line>
-          <properties>
-            <option name="className" value="" />
-            <option name="methodName" value="\loginCheck" />
-          </properties>
-          <option name="timeStamp" value="2" />
+          <line>355</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
